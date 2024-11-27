@@ -1,0 +1,7 @@
+.vscode
+myenv
+.env
+__pycache__
+elasticsearch-8.16.1
+kibana-8.16.1
+EmbedForCSV.csv

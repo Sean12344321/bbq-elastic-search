@@ -1,0 +1,15 @@
+elasticsearch
+dotenv
+torch
+transformer
+langchain
+sentence-transformers
+tqdm 
+openpyxl 
+openai 
+pandas 
+datasets 
+langchain-community 
+ragatouille
+ipython
+matplotlib
